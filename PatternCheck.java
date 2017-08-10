@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 public class PatternCheck {
 
 	/**
-	 * @param args
+	 * @param args only
 	 */
 	public static void main(String[] args) {
 		String name = "GHOSH CHOWDHURY CD PROsenjit De";
